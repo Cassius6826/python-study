@@ -1,0 +1,5 @@
+{"date":"2024-02-01","order_id":"2001","money":1000,"province":"河南"}
+{"date":"2024-02-01","order_id":"2002","money":800,"province":"杭州"}
+{"date":"2024-02-02","order_id":"2003","money":1200,"province":"北京"}
+{"date":"2024-02-03","order_id":"2004","money":300,"province":"上海"}
+{"date":"2024-02-04","order_id":"2005","money":2500,"province":"河南"}
