@@ -1,7 +1,7 @@
 class Animal:
 
     def spark(self):
-        print("动物叫")
+        pass
 
 class Dog(Animal):
 
